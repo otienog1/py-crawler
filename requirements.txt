@@ -1,0 +1,6 @@
+requests==2.18.0
+beautifulsoup4==4.6.0
+pymongo==3.5.1
+flask==0.12.2
+selenium===3.7.0
+config===0.3.9
